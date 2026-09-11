@@ -1,0 +1,5 @@
+packages:
+  - "web3-crypto-scanner"
+  - "milestones/*"
+  - "projects/*"
+  - "milestone-*"
